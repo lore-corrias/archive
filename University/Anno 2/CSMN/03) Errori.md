@@ -115,6 +115,15 @@ $$
 $$
 Ossia il più piccolo numero rappresentabile a cui, sommando $1$, ottengo un numero diverso da $1$.
 
+L'$\epsilon$ di macchina è pari a:
+$$
+\epsilon_m = \beta^{1-t}
+$$
+mentre l'**approssimazione unitaria** è pari alla sua metà:
+$$
+u = \frac{\epsilon_m}{2}
+$$
+
 Prendendo un caso d'esempio con $x = \frac{1}{5}$, facendo $1+\frac{1}{5}$ otteniamo $\frac{6}{5}$, ossia **sempre 1**, per via del troncamento. Quindi abbiamo bisogno di una $x$ tale che, con il troncamento, otteniamo un numero maggiore di 1.
 
 > [!note] Nota su MatLab

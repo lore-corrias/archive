@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "caf00079673c42bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d64b7e3a8c71ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb43cbdd9157cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88bab2f88ad0f347",
+    "type": "split",
+    "children": [
+      {
+        "id": "d10b5889100d7ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac93a1f24e02309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a5ef3cf8d34f0be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f94455cfe9ba9fa0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41e7682f3c401ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51119089bea184dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edac1b47ffb72210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d5c9b527a165fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2d962b3a4101ef8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db91a9061555b8b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "feb43cbdd9157cee",
+  "lastOpenFiles": [
+    "University/Anno 2/CSMN/03) Errori.md",
+    "University/Anno 2/CSMN/04) Algebra Lineare.md",
+    "University/Anno 2/CSMN/02) Notazione Posizionale.md"
+  ]
+}

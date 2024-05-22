@@ -5,12 +5,16 @@ class Solo extends Regola {
     super(args);
   }
 
+  public Solo(Regola regola, String... args) {
+    super(regola, args);
+  }
+
   @Override
   public boolean verifica(String... args) {
     for (String verify : args) {
       if (!super.contains(verify))
         return false;
     }
-    return true;
+    return super.verifica(args);
   }
 }
