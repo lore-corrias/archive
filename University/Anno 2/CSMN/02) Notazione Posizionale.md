@@ -119,7 +119,7 @@ Senza normalizzazione, avremo che tutte le cifre della parte decimale del numero
 Sempre nell'esempio di prima, si ha $2^{-1-3}=2^{-4}=\frac{1}{16}$
 ### Numero più grande
 In questo caso, la cifra più grande dipende ovviamente dalla base.
-Per esempio, la più grande mantissa in base 10 con 3 cifre significative è $0.999$, che è anche uguale a $1-0.001$. In generale, il più grande numero sarà sempre della **forma**:
+Per esempio, la più grande mantissa in base 10 con 3 cifre significative è $0.999$, che è anche uguale a $1-0.001$. In generale, il più grande numero sarà sempre della forma:
 > [!important] Definizione: numero più grande di un insieme `F`
 >$$
 >(1-\beta^{-\tau}) \times \beta^U = \beta^U \times \beta^{U-t}
