@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "file": "University/Anno 2/CSMN/09) Algoritmo di Gauss, Fattorizzazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "file": "University/Anno 2/CSMN/09) Algoritmo di Gauss, Fattorizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md",
+                "file": "University/Anno 2/CSMN/09) Algoritmo di Gauss, Fattorizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Anno 2/CSMN/02) Notazione Posizionale.md"
+                "file": "University/Anno 2/CSMN/09) Algoritmo di Gauss, Fattorizzazione.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "feb43cbdd9157cee",
   "lastOpenFiles": [
+    "University/Anno 2/CSMN/10) Metodi Iterattivi.md",
+    "University/Anno 2/CSMN/11) Equazioni non lineari.md",
+    "University/Anno 2/CSMN/02) Notazione Posizionale.md",
     "University/Anno 2/CSMN/03) Errori.md",
-    "University/Anno 2/CSMN/04) Algebra Lineare.md",
-    "University/Anno 2/CSMN/02) Notazione Posizionale.md"
+    "University/Anno 2/CSMN/04) Algebra Lineare.md"
   ]
 }

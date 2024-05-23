@@ -136,11 +136,11 @@ La complessità computazionale è `O(n^3/3)`
 > \underline{x} = \begin{bmatrix}1 \\ -1 \\ 1\end{bmatrix}
 > $$
 > 
-> Se invece volessimo utilizzare l'algoritmo di Gauss **con pivoting**, è sufficiente scambiare, ad ogni passaggio, la riga considerata con quella con il primo termine più grande. Per il primo passaggio, quindi, scambiamo la riga $1$ con la riga $3$:
+> Se invece volessimo utilizzare l'algoritmo di Gauss **con pivoting**, è sufficiente scambiare, ad ogni passaggio, la riga considerata con quella con il primo termine più grande (**in valore assoluto!**). Per il primo passaggio, quindi, scambiamo la riga $1$ con la riga $3$:
 > $$
 > A = \begin{bmatrix} 3 & 2 & 1 & |2 \\ 1 & 2 & 4 & |3 \\ 4 & 1 & 2 & |5\end{bmatrix} \to \begin{bmatrix}4 & 1 & 2 & |5 \\ 1 & 2 & 4 & |3 \\ 3 & 2 & 1 & |2\end{bmatrix}
 > $$
-> e procediamo allo stesso modo.
+> e procediamo allo stesso modo. Se fossimo stati al secondo passaggio, avremmo dovuto trovare la riga con il termine **della seconda colonna** maggiore (sempre in valore assoluto), e così via.
 
 ### Condizioni per poter usare l'algoritmo di Gauss
 Abbiamo visto che, per l'applicazione dell'algoritmo di Gauss, deve essere $a_{nn} \neq 0$ per ogni passaggio. Le matrici che presentano questa proprietà sono:
